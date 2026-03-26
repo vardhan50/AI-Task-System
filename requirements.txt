@@ -1,0 +1,7 @@
+Django
+djangorestframework
+mysqlclient
+djangorestframework-simplejwt
+sentence-transformers
+faiss-cpu
+numpy
